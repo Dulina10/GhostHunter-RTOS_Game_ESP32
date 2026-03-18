@@ -2,7 +2,6 @@
 ------------------------------------------------------------
 Ghost Hunter - Real-Time Game using FreeRTOS on ESP32
 Module: 5FTC2146 - Real-Time Systems and Programming
-Student ID: 23115093
 
 Description:
 This program implements a real-time ghost hunting game on ESP32
